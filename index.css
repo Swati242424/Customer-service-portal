@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url('https://source.unsplash.com/1600x900/?support,customer');
+    background-size: cover;
+    background-position: center;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
